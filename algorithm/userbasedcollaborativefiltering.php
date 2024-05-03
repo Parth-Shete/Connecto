@@ -1,5 +1,5 @@
 <?php
-// Sample user ratings for tweets
+
 $userRatings = [
     'User1' => ['Tweet1' => 5, 'Tweet2' => 4, 'Tweet3' => 3],
     'User2' => ['Tweet1' => 3, 'Tweet2' => 4, 'Tweet3' => 5],
