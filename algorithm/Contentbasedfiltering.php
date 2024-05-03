@@ -1,5 +1,5 @@
 <?php
-// Sample user preferences
+
 $userPreferences = [
     'action' => 1,
     'mention' => 0,
@@ -7,7 +7,7 @@ $userPreferences = [
     'retweets' => 0,
 ];
 
-// Sample items with features
+
 $items = [
     ['comment' => 'tweet 1', 'genre' => ['action', 'quote']],
     ['comment' => 'tweet 2', 'genre' => ['action', 'mention']],
